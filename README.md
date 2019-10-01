@@ -1,0 +1,2 @@
+# artifactory-resource-version
+tmp
