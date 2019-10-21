@@ -1,2 +1,2 @@
-# artifactory-resource-version
-tmp
+# dev-version
+Temporary version file to test pipeline
